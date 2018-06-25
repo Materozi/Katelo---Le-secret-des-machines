@@ -1,0 +1,94 @@
+======================================================
+Berylium font created by Typodermic Fonts
+http://typodermicfonts.com/berylium-font-spruced-up/
+
+Imported to Minecraft By Nuin
+
+128px Version Updated by JimStoneCraft
+
+512px Version Created by JimStoneCraft
+
+17th June 2013
+======================================================
+
+File names have changed in the Minecraft 1.6 update.
+
+Choose the directory for the version you have.
+
+There are 128px and 512px versions, the 512px version
+has a lot more detail and yes the font is compatible 
+with a 16px, 32px and any other size texture pack as 
+long as you follow the NOTE below.
+
+
+
+NOTE:
+You require MCPatcher or Optifine to use these fonts.
+
+
+
+--Minecraft 1.52 or less------------------------------
+
+default.png
+default.properties
+glyph_00.png
+glyph_00.properties
+
+--Minecraft 1.6 plus----------------------------------
+
+ascii.png
+ascii.properties
+unicode_page_00.png
+unicode_page_00.properties
+
+------------------------------------------------------
+Font sizes for standard A-Z.
+
+Berylium 41 BOLD
+
+Uppercase accented "foreign language" characters.
+
+Berylium 32 BOLD
+======================================================
+
+
+
+==Font List===========================================
+
+--default.png-----------------------------------------
+
+  ! " # $ % & ' ( ) * + , - . /
+0 1 2 3 4 5 6 7 8 9 : ; < = > ?
+@ A B C D E F G H I J K L M N O
+P Q R S T U V W X Y Z [ \ ] ^ _ 
+` a b c d e f g h i j k l m n o 
+p q r s t u v w x y z { | } ~ ⌂
+Ç ü é â ä à å ç ê ë è ï î ì Ä Å
+É æ Æ ô ö ò û ù ÿ Ö Ü ø £ Ø ×
+á í ó ú ñ Ñ ª º ¿ ® ¬ ¼ ½ ¡ « »
+
+
+Note used in game
+
+α β Γ π Σ σ μ   Φ Θ Ω δ ∞
+  ± ≥ ≤ ⌠ ⌡ ÷ ≈ ° ·   √   ² •
+
+
+--glyph_00.png----------------------------------------
+
+  ! " # $ % & ' ( ) * + , - . /
+0 1 2 3 4 5 6 7 8 9 : ; < = > ?
+@ A B C D E F G H I J K L M N O
+P Q R S T U V W X Y Z [ \ ] ^ _ 
+` a b c d e f g h i j k l m n o 
+p q r s t u v w x y z { | } ~ 
+
+
+  ¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬   ® ¯
+° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿
+À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï
+Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß
+à á â ã ä å æ ç è é ê ë ì í î ï 
+ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ
+
+======================================================

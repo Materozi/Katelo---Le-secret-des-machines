@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 3ad38f51ad79d8943a72bc50331d1a5e
+timeCreated: 1519324718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: None_Le_Secret_des_Machines_2.png
+    2100002: None
+    2100004: None_KATELO_1.png
+    2100006: None_KATELO_2.png
+    2100008: None_Tesla.png
+    2100010: None_Parchemin.png
+    2100012: None_Engrenages.jpg
+    2100014: Material
+    2100016: Material_porte_gauche.png
+    2100018: Material_Or.png
+    2100020: None_Or.png
+    2100022: None_Cuivre.jpg
+    2100024: Material.002
+    2100026: Material.002_Or.png.001
+    2100028: Material.002_porte_gauche.png
+    2100030: Material.002_Or.png
+    2100032: "None_chaudi\xE8re.jpg"
+    2100034: None_tuyaut.jpg
+    2100036: None_gears_logo_dents.png
+    2100038: None_gears_logo_rayons.png
+    2100040: None_gears_logo_roue.png
+    2100042: None_Tesla.png.001
+    2100044: None_gears_logo_dents.png.001
+    2100046: None_gears_logo_rayons.png.001
+    2100048: None_gears_logo_roue.png.001
+    2100050: None_gears_logo_roue.png.002
+    2100052: None_gears_logo_dents.png.002
+    2100054: None_gears_logo_rayons.png.002
+    2100056: None_gears_logo_roue.png.003
+    2100058: None_gears_logo_dents.png.003
+    2100060: None_gears_logo_rayons.png.003
+    2100062: None_gears_logo_roue.png.004
+    2100064: None_gears_logo_dents.png.004
+    2100066: None_gears_logo_rayons.png.004
+    2100068: None_gears_logo_roue.png.005
+    2100070: None_gears_logo_dents.png.005
+    2100072: None_gears_logo_rayons.png.005
+    2100074: None_Le_Secret_des_Machines_1.png.001
+    2100076: None_Le_Secret_des_Machines_2.png.001
+    2100078: None_Le_Secret_des_Machines_1.png.002
+    2100080: None_Le_Secret_des_Machines_2.png.002
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
