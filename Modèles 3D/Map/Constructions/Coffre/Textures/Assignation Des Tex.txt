@@ -1,0 +1,4 @@
+Couvercle : Boite
+Coins et arrêtes : Bordure
+Poignet : Renforcement
+Reste de la boite : Renforcement
