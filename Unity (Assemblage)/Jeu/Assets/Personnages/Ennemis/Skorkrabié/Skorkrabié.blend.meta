@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: d616b1797cd1695448649bfaa8729755
-timeCreated: 1519324737
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -12,6 +10,163 @@ ModelImporter:
     100008: Cylinder_004
     100010: //RootNode
     100012: Sphere
+    100014: Armature
+    100016: Bone
+    100018: Bone_001
+    100020: Bone_002
+    100022: Bone_003
+    100024: Bone_004
+    100026: Bone_005
+    100028: Bone_006
+    100030: Bone_007
+    100032: Bone_008
+    100034: Bone_009
+    100036: Bone_010
+    100038: Bone_011
+    100040: Bone_012
+    100042: Bone_013
+    100044: Bone_014
+    100046: Bone_015
+    100048: Bone_016
+    100050: Bone_017
+    100052: Bone_018
+    100054: Bone_019
+    100056: Bone_020
+    100058: Bone_021
+    100060: Bone_022
+    100062: Bone_023
+    100064: Bone_024
+    100066: Bone_025
+    100068: Bone_026
+    100070: Bone_027
+    100072: Bone_028
+    100074: Bone_029
+    100076: Bone_030
+    100078: Bone_031
+    100080: Bone_032
+    100082: Bone_033
+    100084: Bone_034
+    100086: Bone_035
+    100088: Bone_036
+    100090: Bone_037
+    100092: Bone_038
+    100094: Bone_039
+    100096: Bone_040
+    100098: Bone_041
+    100100: Bone_042
+    100102: Bone_043
+    100104: Bone_044
+    100106: Bone_045
+    100108: Bone_046
+    100110: Bone_047
+    100112: Bone_048
+    100114: Bone_049
+    100116: Bone_050
+    100118: Bone_051
+    100120: Bone_052
+    100122: Bone_053
+    100124: Bone_054
+    100126: Bone_055
+    100128: Bone_056
+    100130: Bone_057
+    100132: Bone_058
+    100134: Bone_059
+    100136: Bone_060
+    100138: Bone_061
+    100140: Bone_062
+    100142: Bone_063
+    100144: Bone_064
+    100146: Bone_065
+    100148: Bone_066
+    100150: Bone_067
+    100152: Bone_068
+    100154: Bone_069
+    100156: Bone_070
+    100158: Bone_071
+    100160: Bone_072
+    100162: Bone_073
+    100164: Bone_074
+    100166: Bone_075
+    100168: Bone_076
+    100170: Bone_077
+    100172: Bone_078
+    100174: Bone_079
+    100176: Bone_080
+    100178: Bone_081
+    100180: Bone_082
+    100182: Bone_083
+    100184: Bone_084
+    100186: Bone_085
+    100188: Bone_086
+    100190: Bone_087
+    100192: Bone_088
+    100194: Bone_089
+    100196: Bone_090
+    100198: Bone_091
+    100200: Bone_092
+    100202: Bone_093
+    100204: Bone_094
+    100206: Bone_095
+    100208: Bone_096
+    100210: Bone_097
+    100212: Bone_098
+    100214: Bone_099
+    100216: Bone_100
+    100218: Bone_101
+    100220: Bone_102
+    100222: Bone_103
+    100224: Bone_104
+    100226: Bone_105
+    100228: Bone_106
+    100230: Bone_107
+    100232: Bone_108
+    100234: Bone_109
+    100236: Bone_110
+    100238: Bone_111
+    100240: Bone_112
+    100242: Bone_113
+    100244: Bone_114
+    100246: Bone_115
+    100248: Bone_116
+    100250: Bone_117
+    100252: Bone_118
+    100254: Bone_119
+    100256: Bone_120
+    100258: Bone_121
+    100260: Bone_122
+    100262: Bone_123
+    100264: Bone_124
+    100266: Bone_125
+    100268: Bone_126
+    100270: Bone_127
+    100272: Bone_128
+    100274: Bone_129
+    100276: Bone_130
+    100278: Bone_131
+    100280: Bone_132
+    100282: Bone_133
+    100284: Bone_134
+    100286: Bone_135
+    100288: Bone_136
+    100290: Bone_137
+    100292: Bone_138
+    100294: Bone_139
+    100296: Bone_140
+    100298: Bone_141
+    100300: Bone_142
+    100302: Bone_143
+    100304: Bone_144
+    100306: Bone_145
+    100308: Bone_146
+    100310: Bone_147
+    100312: Bone_148
+    100314: Bone_149
+    100316: Bone_150
+    100318: Bone_151
+    100320: Bone_152
+    100322: Bone_153
+    100324: Bone_154
+    100326: Bone_155
     400000: Cylinder
     400002: Cylinder_001
     400004: Cylinder_002
@@ -19,6 +174,163 @@ ModelImporter:
     400008: Cylinder_004
     400010: //RootNode
     400012: Sphere
+    400014: Armature
+    400016: Bone
+    400018: Bone_001
+    400020: Bone_002
+    400022: Bone_003
+    400024: Bone_004
+    400026: Bone_005
+    400028: Bone_006
+    400030: Bone_007
+    400032: Bone_008
+    400034: Bone_009
+    400036: Bone_010
+    400038: Bone_011
+    400040: Bone_012
+    400042: Bone_013
+    400044: Bone_014
+    400046: Bone_015
+    400048: Bone_016
+    400050: Bone_017
+    400052: Bone_018
+    400054: Bone_019
+    400056: Bone_020
+    400058: Bone_021
+    400060: Bone_022
+    400062: Bone_023
+    400064: Bone_024
+    400066: Bone_025
+    400068: Bone_026
+    400070: Bone_027
+    400072: Bone_028
+    400074: Bone_029
+    400076: Bone_030
+    400078: Bone_031
+    400080: Bone_032
+    400082: Bone_033
+    400084: Bone_034
+    400086: Bone_035
+    400088: Bone_036
+    400090: Bone_037
+    400092: Bone_038
+    400094: Bone_039
+    400096: Bone_040
+    400098: Bone_041
+    400100: Bone_042
+    400102: Bone_043
+    400104: Bone_044
+    400106: Bone_045
+    400108: Bone_046
+    400110: Bone_047
+    400112: Bone_048
+    400114: Bone_049
+    400116: Bone_050
+    400118: Bone_051
+    400120: Bone_052
+    400122: Bone_053
+    400124: Bone_054
+    400126: Bone_055
+    400128: Bone_056
+    400130: Bone_057
+    400132: Bone_058
+    400134: Bone_059
+    400136: Bone_060
+    400138: Bone_061
+    400140: Bone_062
+    400142: Bone_063
+    400144: Bone_064
+    400146: Bone_065
+    400148: Bone_066
+    400150: Bone_067
+    400152: Bone_068
+    400154: Bone_069
+    400156: Bone_070
+    400158: Bone_071
+    400160: Bone_072
+    400162: Bone_073
+    400164: Bone_074
+    400166: Bone_075
+    400168: Bone_076
+    400170: Bone_077
+    400172: Bone_078
+    400174: Bone_079
+    400176: Bone_080
+    400178: Bone_081
+    400180: Bone_082
+    400182: Bone_083
+    400184: Bone_084
+    400186: Bone_085
+    400188: Bone_086
+    400190: Bone_087
+    400192: Bone_088
+    400194: Bone_089
+    400196: Bone_090
+    400198: Bone_091
+    400200: Bone_092
+    400202: Bone_093
+    400204: Bone_094
+    400206: Bone_095
+    400208: Bone_096
+    400210: Bone_097
+    400212: Bone_098
+    400214: Bone_099
+    400216: Bone_100
+    400218: Bone_101
+    400220: Bone_102
+    400222: Bone_103
+    400224: Bone_104
+    400226: Bone_105
+    400228: Bone_106
+    400230: Bone_107
+    400232: Bone_108
+    400234: Bone_109
+    400236: Bone_110
+    400238: Bone_111
+    400240: Bone_112
+    400242: Bone_113
+    400244: Bone_114
+    400246: Bone_115
+    400248: Bone_116
+    400250: Bone_117
+    400252: Bone_118
+    400254: Bone_119
+    400256: Bone_120
+    400258: Bone_121
+    400260: Bone_122
+    400262: Bone_123
+    400264: Bone_124
+    400266: Bone_125
+    400268: Bone_126
+    400270: Bone_127
+    400272: Bone_128
+    400274: Bone_129
+    400276: Bone_130
+    400278: Bone_131
+    400280: Bone_132
+    400282: Bone_133
+    400284: Bone_134
+    400286: Bone_135
+    400288: Bone_136
+    400290: Bone_137
+    400292: Bone_138
+    400294: Bone_139
+    400296: Bone_140
+    400298: Bone_141
+    400300: Bone_142
+    400302: Bone_143
+    400304: Bone_144
+    400306: Bone_145
+    400308: Bone_146
+    400310: Bone_147
+    400312: Bone_148
+    400314: Bone_149
+    400316: Bone_150
+    400318: Bone_151
+    400320: Bone_152
+    400322: Bone_153
+    400324: Bone_154
+    400326: Bone_155
     2100000: None__Noix_de_coco_png
     2100002: None__Noix_de_coco_int_rieur_png
     2100004: None__Peau_dorsale_png
@@ -31,6 +343,27 @@ ModelImporter:
     2100018: None__Peau_ventrale_png_004
     2100020: None__Peau_dorsale_png_003
     2100022: None__Peau_ventrale_png_003
+    2100024: None__Pattes_png_008
+    2100026: None__Pattes_png_007
+    2100028: None__Pattes_png_006
+    2100030: None__Peau_ventrale_png_008
+    2100032: None__Peau_dorsale_png_010
+    2100034: None__Pattes_png_035
+    2100036: None__Pattes_png_034
+    2100038: None__Pattes_png_033
+    2100040: None__Peau_dorsale_png_009
+    2100042: None__Peau_ventrale_png_009
+    2100044: None__Peau_dorsale_png_012
+    2100046: None__Pattes_png_038
+    2100048: None__Pattes_png_037
+    2100050: None__Pattes_png_036
+    2100052: None__Peau_dorsale_png_011
+    2100054: None__Peau_ventrale_png_010
+    2100056: None__Peau_dorsale_png_014
+    2100058: None__Pattes_png_041
+    2100060: None__Pattes_png_040
+    2100062: None__Pattes_png_039
+    2100064: None__Peau_dorsale_png_013
     2300000: Cylinder
     2300002: Cylinder_001
     2300004: Cylinder_002
@@ -50,7 +383,10 @@ ModelImporter:
     4300008: Cylinder_004
     4300010: Cylinder_003
     7400000: Default Take
+    7400002: ArmatureAction
     9500000: //RootNode
+    13700000: Sphere
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -70,6 +406,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
