@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: b38c5d6f9b857aa46a178e3cb63b0a6f
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: Cube_000
     100002: Cube_001
@@ -28,6 +28,7 @@ ModelImporter:
     100044: Batiment_001
     100046: Cube
     100048: Cylinder
+    100050: Cube_004
     400000: Cube_000
     400002: Cube_001
     400004: Cube_002
@@ -53,6 +54,7 @@ ModelImporter:
     400044: Batiment_001
     400046: Cube
     400048: Cylinder
+    400050: Cube_004
     2100000: None__M_tal_jpg
     2100002: None__Poutre_jpg
     2100004: None__Rouille_jpg
@@ -107,6 +109,15 @@ ModelImporter:
     2100102: None__Poutre_jpg_006
     2100104: unnamed
     2100106: None__Toit_png
+    2100108: None__Porte_jpg
+    2100110: None__Banc_jpg
+    2100112: None__Porte_jpg_001
+    2100114: None__Porte_jpg_002
+    2100116: None__Cuivre_jpg_002
+    2100118: None__Porte_jpg_003
+    2100120: None__Cuivre_jpg_003
+    2100122: None__Porte_jpg_004
+    2100124: None__Cuivre_jpg_004
     2300000: Cube_000
     2300002: Cube_001
     2300004: Cube_002
@@ -132,6 +143,7 @@ ModelImporter:
     2300044: Batiment_001
     2300046: Cube
     2300048: Cylinder
+    2300050: Cube_004
     3300000: Cube_000
     3300002: Cube_001
     3300004: Cube_002
@@ -157,6 +169,7 @@ ModelImporter:
     3300044: Batiment_001
     3300046: Cube
     3300048: Cylinder
+    3300050: Cube_004
     4300000: Cylinder_009
     4300002: Cube_001
     4300004: Cube_008
@@ -182,6 +195,7 @@ ModelImporter:
     4300044: Batiment
     4300046: Batiment_001
     4300048: Cylinder
+    4300050: Cube_004
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -219,6 +233,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -236,11 +251,16 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -255,7 +275,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

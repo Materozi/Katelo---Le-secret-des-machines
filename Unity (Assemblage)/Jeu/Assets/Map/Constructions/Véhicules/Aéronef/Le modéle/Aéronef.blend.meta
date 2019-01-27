@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: fdd20eda822f6a742966040e19454ebe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Ballon
+    100006: Baril
+    100008: Barre
+    100010: Bone
+    100012: Bone_001
+    100014: Bone_002
+    100016: Bone_003
+    100018: Bone_004
+    100020: Cablage
+    100022: Coque
+    100024: Elisse
+    100026: Guidon
+    100028: Torus1
+    100030: Torus1_001
+    100032: Torus1_002
+    100034: Torus2
+    400000: Armature
+    400002: //RootNode
+    400004: Ballon
+    400006: Baril
+    400008: Barre
+    400010: Bone
+    400012: Bone_001
+    400014: Bone_002
+    400016: Bone_003
+    400018: Bone_004
+    400020: Cablage
+    400022: Coque
+    400024: Elisse
+    400026: Guidon
+    400028: Torus1
+    400030: Torus1_001
+    400032: Torus1_002
+    400034: Torus2
+    2100000: None__M_tal_jpg
+    2100002: None__Tonneau_jpg
+    2100004: None__Ballon_jpg
+    2100006: None__Coque_jpg
+    2300000: Ballon
+    2300002: Baril
+    2300004: Barre
+    2300006: Cablage
+    2300008: Coque
+    2300010: Guidon
+    2300012: Torus1
+    2300014: Torus1_001
+    2300016: Torus1_002
+    2300018: Torus2
+    3300000: Ballon
+    3300002: Baril
+    3300004: Barre
+    3300006: Cablage
+    3300008: Coque
+    3300010: Guidon
+    3300012: Torus1
+    3300014: Torus1_001
+    3300016: Torus1_002
+    3300018: Torus2
+    4300000: Torus1_001
+    4300002: Torus1_002
+    4300004: Elisse
+    4300006: Torus1
+    4300008: Torus2
+    4300010: Baril
+    4300012: Ballon
+    4300014: Guidon
+    4300016: Barre
+    4300018: Coque
+    4300020: Cablage
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Elisse
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

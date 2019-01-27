@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: fbcf8b40e2a867a48a2cc07c51f2e93c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barre_Soutien
+    100002: Barres_cockpit
+    100004: Base_gouvernail
+    100006: Canons
+    100008: Corps
+    100010: Fixations
+    100012: Gouvernail
+    100014: Helices
+    100016: Joints
+    100018: Lumiere_phare
+    100020: Ossature_metallique
+    100022: Pinces
+    100024: Plaque
+    100026: Poignee
+    100028: //RootNode
+    100030: Submersible
+    100032: Support
+    100034: Support_canons
+    100036: SUpport_gouvernail
+    100038: Support_helices
+    100040: Support_lumiere
+    100042: Trappe
+    400000: Barre_Soutien
+    400002: Barres_cockpit
+    400004: Base_gouvernail
+    400006: Canons
+    400008: Corps
+    400010: Fixations
+    400012: Gouvernail
+    400014: Helices
+    400016: Joints
+    400018: Lumiere_phare
+    400020: Ossature_metallique
+    400022: Pinces
+    400024: Plaque
+    400026: Poignee
+    400028: //RootNode
+    400030: Submersible
+    400032: Support
+    400034: Support_canons
+    400036: SUpport_gouvernail
+    400038: Support_helices
+    400040: Support_lumiere
+    400042: Trappe
+    2100000: lambert2
+    2100002: lambert4
+    2100004: lambert12
+    2100006: lambert5
+    2100008: lambert13
+    2100010: lambert9
+    2100012: lambert14
+    2100014: lambert10
+    2100016: lambert7
+    2100018: lambert8
+    2100020: lambert11
+    2100022: lambert3
+    2100024: lambert6
+    2100026: lambert15
+    2100028: lambert16
+    2100030: lambert19
+    2100032: lambert18
+    2100034: lambert20
+    2100036: lambert17
+    2300000: Barre_Soutien
+    2300002: Barres_cockpit
+    2300004: Base_gouvernail
+    2300006: Canons
+    2300008: Corps
+    2300010: Fixations
+    2300012: Gouvernail
+    2300014: Helices
+    2300016: Joints
+    2300018: Lumiere_phare
+    2300020: Ossature_metallique
+    2300022: Pinces
+    2300024: Plaque
+    2300026: Poignee
+    2300028: Support
+    2300030: Support_canons
+    2300032: SUpport_gouvernail
+    2300034: Support_helices
+    2300036: Support_lumiere
+    3300000: Barre_Soutien
+    3300002: Barres_cockpit
+    3300004: Base_gouvernail
+    3300006: Canons
+    3300008: Corps
+    3300010: Fixations
+    3300012: Gouvernail
+    3300014: Helices
+    3300016: Joints
+    3300018: Lumiere_phare
+    3300020: Ossature_metallique
+    3300022: Pinces
+    3300024: Plaque
+    3300026: Poignee
+    3300028: Support
+    3300030: Support_canons
+    3300032: SUpport_gouvernail
+    3300034: Support_helices
+    3300036: Support_lumiere
+    4300000: Ossature_metallique
+    4300002: Barres_cockpit
+    4300004: Canons
+    4300006: Pinces
+    4300008: Lumiere_phare
+    4300010: Base_gouvernail
+    4300012: Support_lumiere
+    4300014: SUpport_gouvernail
+    4300016: Helices
+    4300018: Support_helices
+    4300020: Support_canons
+    4300022: Corps
+    4300024: Gouvernail
+    4300026: Support
+    4300028: Plaque
+    4300030: Fixations
+    4300032: Barre_Soutien
+    4300034: Joints
+    4300036: Poignee
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

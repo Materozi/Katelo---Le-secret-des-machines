@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: f46a312896522544a8f982f7b5f861b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: Bone.004
+    100016: Bone.005
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.008
+    100024: Bone.009
+    100026: Bone.010
+    100028: Bone.010_end
+    100030: Bone.011
+    100032: Bone.012
+    100034: Bone.013
+    100036: Bone.014
+    100038: Bone.015
+    100040: Bone.015_end
+    100042: Bone.016
+    100044: Bone.017
+    100046: Bone.018
+    100048: Bone.019
+    100050: Bone.020
+    100052: Bone.021
+    100054: Bone.022
+    100056: Bone.023
+    100058: Bone.024
+    100060: Bone.025
+    100062: Bone.025_end
+    100064: Bone.026
+    100066: Bone.027
+    100068: Bone.028
+    100070: Bone.029
+    100072: Bone.030
+    100074: Bone.031
+    100076: Bone.032
+    100078: Bone.033
+    100080: Bone.034
+    100082: Bone.034_end
+    100084: Bone.035
+    100086: Bone.035_end
+    100088: Bone.036
+    100090: Bone.036_end
+    100092: Bone.037
+    100094: Bone.037_end
+    100096: Bone.038
+    100098: Bone.039
+    100100: Bone.040
+    100102: Bone.041
+    100104: Bone.041_end
+    100106: Bone.042
+    100108: Bone.043
+    100110: Bone.044
+    100112: Bone.044_end
+    100114: Bone.045
+    100116: Bone.046
+    100118: Bone.047
+    100120: Bone.048
+    100122: Bone.048_end
+    100124: Bone.049
+    100126: Bone.050
+    100128: Bone.051
+    100130: Bone.051_end
+    100132: Bone.052
+    100134: Bone.053
+    100136: Bone.054
+    100138: Bone.055
+    100140: Bone.055_end
+    100142: Cheveux
+    100144: Corps
+    100146: //RootNode
+    100148: Oeil droit
+    100150: Oeil gauche
+    400000: Armature
+    400002: Armature.001
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: Bone.004
+    400016: Bone.005
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.008
+    400024: Bone.009
+    400026: Bone.010
+    400028: Bone.010_end
+    400030: Bone.011
+    400032: Bone.012
+    400034: Bone.013
+    400036: Bone.014
+    400038: Bone.015
+    400040: Bone.015_end
+    400042: Bone.016
+    400044: Bone.017
+    400046: Bone.018
+    400048: Bone.019
+    400050: Bone.020
+    400052: Bone.021
+    400054: Bone.022
+    400056: Bone.023
+    400058: Bone.024
+    400060: Bone.025
+    400062: Bone.025_end
+    400064: Bone.026
+    400066: Bone.027
+    400068: Bone.028
+    400070: Bone.029
+    400072: Bone.030
+    400074: Bone.031
+    400076: Bone.032
+    400078: Bone.033
+    400080: Bone.034
+    400082: Bone.034_end
+    400084: Bone.035
+    400086: Bone.035_end
+    400088: Bone.036
+    400090: Bone.036_end
+    400092: Bone.037
+    400094: Bone.037_end
+    400096: Bone.038
+    400098: Bone.039
+    400100: Bone.040
+    400102: Bone.041
+    400104: Bone.041_end
+    400106: Bone.042
+    400108: Bone.043
+    400110: Bone.044
+    400112: Bone.044_end
+    400114: Bone.045
+    400116: Bone.046
+    400118: Bone.047
+    400120: Bone.048
+    400122: Bone.048_end
+    400124: Bone.049
+    400126: Bone.050
+    400128: Bone.051
+    400130: Bone.051_end
+    400132: Bone.052
+    400134: Bone.053
+    400136: Bone.054
+    400138: Bone.055
+    400140: Bone.055_end
+    400142: Cheveux
+    400144: Corps
+    400146: //RootNode
+    400148: Oeil droit
+    400150: Oeil gauche
+    2100000: peau
+    2100002: T-shirt
+    2100004: bretelles
+    2100006: ceinture
+    2100008: boucle centure
+    2100010: renforcement
+    2100012: manteau
+    2100014: K
+    2100016: Jean
+    2100018: rebords
+    2100020: chaussures
+    2100022: semelles
+    2100024: languettes
+    2100026: rebords.001
+    2100028: bretelles.001
+    2100030: chaussures.001
+    2100032: semelles.001
+    2100034: languettes.001
+    2100036: bretelles.002
+    2100038: engrenages
+    2100040: "lagni\xE8res"
+    2100042: lunettes
+    2100044: verres
+    2100046: peau.003
+    2100048: peau.004
+    2100050: ongles.002
+    2100052: Mitaines
+    2100054: bandages
+    2100056: cheuveux
+    2100058: blanc oeil
+    2300000: Cheveux
+    2300002: Oeil droit
+    2300004: Oeil gauche
+    3300000: Cheveux
+    3300002: Oeil droit
+    3300004: Oeil gauche
+    4300000: Corps
+    4300002: Cheveux
+    4300004: Oeil gauche
+    4300006: Oeil droit
+    9500000: //RootNode
+    13700000: Corps
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
