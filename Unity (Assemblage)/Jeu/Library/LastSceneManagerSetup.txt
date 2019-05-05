@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Katelo - Le secret des machines.unity
+- path: Assets/Map/MapTest.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
